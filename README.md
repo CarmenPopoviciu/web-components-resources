@@ -8,7 +8,7 @@ This is a work in progress. Any contributions are most welcome
 
 ## Resources List
 
-**HTML Templates**
+### HTML Templates
 
 The 'HTML Templates' standard is part of the official W3C HTML5 spec.
  
@@ -30,7 +30,7 @@ The 'HTML Templates' standard is part of the official W3C HTML5 spec.
 
 - Opera [[link]](https://www.chromestatus.com/features/5207287069147136)
 
-**Shadow DOM**
+### Shadow DOM
 
 *[W3C Specs]* 
 
@@ -52,7 +52,7 @@ The 'HTML Templates' standard is part of the official W3C HTML5 spec.
 
 - Opera [[link]](https://www.chromestatus.com/features/4667415417847808)
 
-**Custom Elements**
+### Custom Elements
 
 *[W3C Specs]* 
 
@@ -74,7 +74,7 @@ The 'HTML Templates' standard is part of the official W3C HTML5 spec.
 
 - Opera [[link]](https://www.chromestatus.com/features/4642138092470272)
 
-**HTML Imports**
+### HTML Imports
 
 *[W3C Specs]* 
 
