@@ -96,6 +96,6 @@ The 'HTML Templates' standard is part of the official W3C HTML5 spec.
 
 - Opera [[link]](https://www.chromestatus.com/features/5144752345317376)
 
-# 
+#   
 
-made with ❤ for the web
+made with ![heart](images/heart.png) for the web
